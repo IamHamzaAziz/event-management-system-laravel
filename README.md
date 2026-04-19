@@ -42,7 +42,6 @@ Following are the test credentials for this application (make sure to use an exi
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd event_booking_system
    ```
 
 2. **Install dependencies**
